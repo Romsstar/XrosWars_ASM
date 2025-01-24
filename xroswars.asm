@@ -38,3 +38,5 @@ MOV r0,#0
 MVN R0,#0
 MOV PC,LR
 
+.close
+
